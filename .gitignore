@@ -6,3 +6,6 @@ node_modules/
 .obsidian/
 .superpowers/
 backtests/
+
+/backup/
+.mcp.json
